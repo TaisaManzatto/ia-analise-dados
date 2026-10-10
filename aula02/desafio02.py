@@ -14,6 +14,6 @@ print(f"Informo que sua nota máxima é {maxima}, a minima é {minimo} e a soma 
 media = float(sum(notas)/len(notas))
 
 if media >= 6:
-    print(f"Sua média é {media}, portanto aprovado!")
+    print(f"Sua média é {media}, portanto você está aprovado!")
 else:
-    print(f"Sua média é {media}, portantoReprovado!")  
+    print(f"Sua média é {media}, portanto você está reprovado!")  

@@ -2,16 +2,20 @@
 lista_de_compras = ["Maça" , "Detergente" , "Arroz"]
 
 #INDEX = seleciona a posição do elemento dentro da lista (inicia em 0)
-#APPEND adiciona dado ao final da lista
-#INSERT adiciona elementos em uma posição desejada
-#REMOVE remove o elemento desejado
-#POP retira o último elemento
+# lista_de_compras[0] = INDEX
 
-# lista_de_compras[0] == INDEX
+#APPEND adiciona dado ao final da lista
 # lista_de_compras.append("Feijão")
+
+#INSERT adiciona elementos em uma posição desejada
 # lista_de_compras.insert(1, "Sabão em pó")
+
+#REMOVE remove o elemento desejado
 # lista_de_compras.remove("Arroz")
+
+#POP retira elemento da posição determinada
 # lista_de_compras.pop()
+
 #print(lista_de_compras)
 
 notas = [10,4,7.5,9,8,7]

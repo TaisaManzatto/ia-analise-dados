@@ -11,6 +11,6 @@ resposta = dados.json()
 
 # print(resposta)
 #print(resposta["logradouro"])
-print(f"Você mora na {resposta["logradouro"]}, no bairro {resposta["bairro"]}, na Cidade de {resposta["localidade"]}")
+print(f"Você mora na {resposta["logradouro"]}, no bairro {resposta["bairro"]}, na cidade de {resposta["localidade"]}")
 #GET = consultar informações
 #POST = postar
